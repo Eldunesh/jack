@@ -2817,13 +2817,13 @@ $npc_alignment['baron_imladis'] = 'korvus'
 $npc_info['baron_imladis'] = '   '
 demand_rating['baron_imladis'] = 3
 $interesting_specialisation['baron_imladis'] = 'maid'
-$diary_mark['baron_imladis'] = "   <<$npc_name['baron_imladis']>>. His castle is located in the Necropolis area of ​​residences."
+$diary_mark['baron_imladis'] = "   <<$npc_name['baron_imladis']>>. His castle is located in the Necropolis area of residences."
 $baron_imladis_pref[1] = "  [Baron Imladis]
-   - I need <<$slave_type_name[$interesting_specialisation['baron_imladis']]>> of rank <<$rating[demand_rating['baron_imladis']]>> or higher. I'll pay for it <<common_price[demand_rating['baron_imladis']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['baron_imladis']]>> of rank <<$rating[demand_rating['baron_imladis']]>> or higher. I'll pay <<common_price[demand_rating['baron_imladis']]>> sparks for it."
 $buy_quote['baron_imladis'] = '   [Baron Imladis]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['baron_imladis'] = '   [Baron Imladis]
-   - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
+   - And why do I need her if she is not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['baron_imladis'] = '   [Baron Imladis]
    - Can you find a better product? This is not good enough for such money.'
 $refuse_charm_quote['baron_imladis'] = '   [Baron Imladis]
@@ -2839,11 +2839,11 @@ $npc_alignment['donna_venturi'] = 'korvus'
 $npc_info['donna_venturi'] = '   '
 demand_rating['donna_venturi'] = 3
 $interesting_specialisation['donna_venturi'] = 'maid'
-$diary_mark['donna_venturi'] = "   <<$npc_name['donna_venturi']>>. She has her estate in the Necropolis area of ​​residences."
+$diary_mark['donna_venturi'] = "   <<$npc_name['donna_venturi']>>. She has her estate in the Necropolis area of residences."
 $donna_venturi_pref[1] = "  [Donna Venturi]
-   - I need <<$slave_type_name[$interesting_specialisation['donna_venturi']]>> of rank <<$rating[demand_rating['donna_venturi']]>> or higher. I'll pay for it <<common_price[demand_rating['donna_venturi']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['donna_venturi']]>> of rank <<$rating[demand_rating['donna_venturi']]>> or higher. I'll pay <<common_price[demand_rating['donna_venturi']]>> sparks for it."
 $buy_quote['donna_venturi'] = '   [Donna Venturi]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['donna_venturi'] = '   [Donna Venturi]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['donna_venturi'] = '   [Donna Venturi]
@@ -2861,11 +2861,11 @@ $npc_alignment['faceless'] = 'korvus'
 $npc_info['faceless'] = '   '
 demand_rating['faceless'] = 2
 $interesting_specialisation['faceless'] = 'artist'
-$diary_mark['faceless'] = "   <<$npc_name['faceless']>>. Lair of this creature located somewhere in the Necropolis."
+$diary_mark['faceless'] = "   <<$npc_name['faceless']>>. The lair of this creature is located somewhere in the Necropolis."
 $faceless_pref[1] = "  [FACELESS]
-   - I need <<$slave_type_name[$interesting_specialisation['faceless']]>> of rank <<$rating[demand_rating['faceless']]>> or higher. I'll pay for it <<common_price[demand_rating['faceless']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['faceless']]>> of rank <<$rating[demand_rating['faceless']]>> or higher. I'll pay <<common_price[demand_rating['faceless']]>> sparks for it."
 $buy_quote['faceless'] = '   [FACELESS]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['faceless'] = '   [FACELESS]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['faceless'] = '   [FACELESS]
@@ -2876,7 +2876,7 @@ $refuse_again_quote['faceless'] = '   [FACELESS]
    - No means no!'
 
 $npc_image['lady_yasmenia'] = 'lady_yasmenia'
-$npc_name['lady_yasmenia'] = 'Lady Yasmanee'
+$npc_name['lady_yasmenia'] = 'Lady Yasmania'
 $npc_status['lady_yasmenia'] = 'Wholesaler
 Corvus House (Damned)'
 $npc_alignment['lady_yasmenia'] = 'korvus'
@@ -2885,9 +2885,9 @@ demand_rating['lady_yasmenia'] = 3
 $interesting_specialisation['lady_yasmenia'] = 'maid'
 $diary_mark['lady_yasmenia'] = "   <<$npc_name['lady_yasmenia']>>. She lives in a gloomy mansion on the outskirts of the Necropolis."
 $lady_yasmenia_pref[1] = "  [Lady Yasmanee]
-   - I need <<$slave_type_name[$interesting_specialisation['lady_yasmenia']]>> of rank <<$rating[demand_rating['lady_yasmenia']]>> or higher. I'll pay for it <<common_price[demand_rating['lady_yasmenia']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['lady_yasmenia']]>> of rank <<$rating[demand_rating['lady_yasmenia']]>> or higher. I'll pay <<common_price[demand_rating['lady_yasmenia']]>> sparks for it."
 $buy_quote['lady_yasmenia'] = '   [Lady Yasmanee]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['lady_yasmenia'] = '   [Lady Yasmanee]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['lady_yasmenia'] = '   [Lady Yasmanee]
@@ -2905,11 +2905,11 @@ $npc_alignment['mad_baron'] = 'korvus'
 $npc_info['mad_baron'] = '   '
 demand_rating['mad_baron'] = 2
 $interesting_specialisation['mad_baron'] = 'nurse'
-$diary_mark['mad_baron'] = "   <<$npc_name['mad_baron']>>. His mansion is located in the Necropolis area of ​​residences."
+$diary_mark['mad_baron'] = "   <<$npc_name['mad_baron']>>. His mansion is located in the Necropolis area of residences."
 $mad_baron_pref[1] = "  [Mad Baron]
-   - I need <<$slave_type_name[$interesting_specialisation['mad_baron']]>> of rank <<$rating[demand_rating['mad_baron']]>> or higher. I'll pay for it <<common_price[demand_rating['mad_baron']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['mad_baron']]>> of rank <<$rating[demand_rating['mad_baron']]>> or higher. I'll pay <<common_price[demand_rating['mad_baron']]>> sparks for it."
 $buy_quote['mad_baron'] = '   [Mad Baron]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['mad_baron'] = '   [Mad Baron]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['mad_baron'] = '   [Mad Baron]
@@ -2927,11 +2927,11 @@ $npc_alignment['paral_itch'] = 'korvus'
 $npc_info['paral_itch'] = '   '
 demand_rating['paral_itch'] = 2
 $interesting_specialisation['paral_itch'] = 'concubine'
-$diary_mark['paral_itch'] = "   <<$npc_name['paral_itch']>>. I must look for him in one of crypts of Necropolis."
+$diary_mark['paral_itch'] = "   <<$npc_name['paral_itch']>>. I must look for him in one of the crypts of the Necropolis."
 $paral_itch_pref[1] = "  [Para Lysis]
-   - I need <<$slave_type_name[$interesting_specialisation['paral_itch']]>> of rank <<$rating[demand_rating['paral_itch']]>> or higher. I'll pay for it <<common_price[demand_rating['paral_itch']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['paral_itch']]>> of rank <<$rating[demand_rating['paral_itch']]>> or higher. I'll pay <<common_price[demand_rating['paral_itch']]>> sparks for it."
 $buy_quote['paral_itch'] = '   [Para Lysis]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['paral_itch'] = '   [Para Lysis]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['paral_itch'] = '   [Para Lysis]
@@ -2949,11 +2949,11 @@ $npc_alignment['wight'] = 'korvus'
 $npc_info['wight'] = '   '
 demand_rating['wight'] = 1
 $interesting_specialisation['wight'] = 'nurse'
-$diary_mark['wight'] = "   <<$npc_name['wight']>>. He can be found in the hollow mound of Necropolis."
+$diary_mark['wight'] = "   <<$npc_name['wight']>>. He can be found in the hollow mound of the Necropolis."
 $wight_pref[1] = "  [SLEW]
-   - I need <<$slave_type_name[$interesting_specialisation['wight']]>> of rank <<$rating[demand_rating['wight']]>> or higher. I'll pay for it <<common_price[demand_rating['wight']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['wight']]>> of rank <<$rating[demand_rating['wight']]>> or higher. I'll pay <<common_price[demand_rating['wight']]>> sparks for it."
 $buy_quote['wight'] = '   [SLEW]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['wight'] = '   [SLEW]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['wight'] = '   [SLEW]
@@ -2971,11 +2971,11 @@ $npc_alignment['draugr'] = 'korvus'
 $npc_info['draugr'] = '   '
 demand_rating['draugr'] = 2
 $interesting_specialisation['draugr'] = 'concubine'
-$diary_mark['draugr'] = "   <<$npc_name['draugr']>>. To find him I need to visit the old ruins in Necropolis."
+$diary_mark['draugr'] = "   <<$npc_name['draugr']>>. To find him, I need to visit the old ruins in thr Necropolis."
 $draugr_pref[1] = "  [DRAUGR]
-   - I need <<$slave_type_name[$interesting_specialisation['draugr']]>> of rank <<$rating[demand_rating['draugr']]>> or higher. I'll pay for it <<common_price[demand_rating['draugr']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['draugr']]>> of rank <<$rating[demand_rating['draugr']]>> or higher. I'll pay <<common_price[demand_rating['draugr']]>> sparks for it."
 $buy_quote['draugr'] = '   [DRAUGR]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['draugr'] = '   [DRAUGR]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['draugr'] = '   [DRAUGR]
@@ -2993,11 +2993,11 @@ $npc_alignment['lestor'] = 'korvus'
 $npc_info['lestor'] = '   '
 demand_rating['lestor'] = 1
 $interesting_specialisation['lestor'] = 'refferent'
-$diary_mark['lestor'] = "   <<$npc_name['lestor']>>. His mansion is located in the Necropolis area of ​​residences."
+$diary_mark['lestor'] = "   <<$npc_name['lestor']>>. His mansion is located in the Necropolis area of residences."
 $lestor_pref[1] = "  [LESTOR]
-   - I need <<$slave_type_name[$interesting_specialisation['lestor']]>> of rank <<$rating[demand_rating['lestor']]>> or higher. I'll pay for it <<common_price[demand_rating['lestor']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['lestor']]>> of rank <<$rating[demand_rating['lestor']]>> or higher. I'll pay <<common_price[demand_rating['lestor']]>> sparks for it."
 $buy_quote['lestor'] = '   [LESTOR]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['lestor'] = '   [LESTOR]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['lestor'] = '   [LESTOR]
@@ -3015,11 +3015,11 @@ $npc_alignment['scarlet'] = 'korvus'
 $npc_info['scarlet'] = '   '
 demand_rating['scarlet'] = 2
 $interesting_specialisation['scarlet'] = 'pet'
-$diary_mark['scarlet'] = "   <<$npc_name['scarlet']>>. Her grim tower is located in the Necropolis area of ​​residences."
+$diary_mark['scarlet'] = "   <<$npc_name['scarlet']>>. Her grim tower is located in the Necropolis area of residences."
 $scarlet_pref[1] = "  [SCARLET]
-   - I need <<$slave_type_name[$interesting_specialisation['scarlet']]>> of rank <<$rating[demand_rating['scarlet']]>> or higher. I'll pay for it <<common_price[demand_rating['scarlet']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['scarlet']]>> of rank <<$rating[demand_rating['scarlet']]>> or higher. I'll pay <<common_price[demand_rating['scarlet']]>> sparks for it."
 $buy_quote['scarlet'] = '   [SCARLET]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['scarlet'] = '   [SCARLET]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['scarlet'] = '   [SCARLET]
@@ -3039,9 +3039,9 @@ demand_rating['count_yagellon'] = 3
 $interesting_specialisation['count_yagellon'] = 'artist'
 $diary_mark['count_yagellon'] = "   <<$npc_name['count_yagellon']>>. I can found his palace in the Necropolis."
 $count_yagellon_pref[1] = "  [Count Jagellon]
-   - I need <<$slave_type_name[$interesting_specialisation['count_yagellon']]>> of rank <<$rating[demand_rating['count_yagellon']]>> or higher. I'll pay for it <<common_price[demand_rating['count_yagellon']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['count_yagellon']]>> of rank <<$rating[demand_rating['count_yagellon']]>> or higher. I'll pay <<common_price[demand_rating['count_yagellon']]>> sparks for it."
 $buy_quote['count_yagellon'] = '   [Count Jagellon]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['count_yagellon'] = '   [Count Jagellon]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['count_yagellon'] = '   [Count Jagellon]
@@ -3061,9 +3061,9 @@ demand_rating['sample'] = 1
 $interesting_specialisation['sample'] = 'none'
 $diary_mark['sample'] = "   <<$npc_name['sample']>>."
 $_pref[1] = "  [BUYER]
-   - I need <<$slave_type_name[$interesting_specialisation['sample']]>> of rank <<$rating[demand_rating['sample']]>> or higher. I'll pay for it <<common_price[demand_rating['sample']]>> sparks."
+   - I need <<$slave_type_name[$interesting_specialisation['sample']]>> of rank <<$rating[demand_rating['sample']]>> or higher. I'll pay <<common_price[demand_rating['sample']]>> sparks for it."
 $buy_quote['sample'] = '   [BUYER]
-   - Ok, I''ll take it. Theres your sparks and thank you. I hope she will please me!'
+   - Ok, I''ll take it. There''s your sparks and thank you. I hope she will please me!'
 $refuse_skill_quote['sample'] = '   [BUYER]
    - And why do I need her if she was not able to do what is required? I''m not interested in such a product.'
 $refuse_level_quote['sample'] = '   [BUYER]
@@ -3078,7 +3078,7 @@ $npc_name['poison'] = 'Poison'
 $npc_status['poison'] = 'Master of Body Art
 Corvus House (Damned)'
 $npc_alignment['poison'] = 'korvus'
-$npc_info['poison'] = 'You do not know exactly what type of undead Poison is. Most likely a vampire - who does not like a vampire in handy to keep the piercing studio and body modifications? I can get many of the necessary tools and devices from her, and in addition she clearly interested in living material and therefore she is a potential customer.'
+$npc_info['poison'] = 'You do not know exactly what type of undead Poison is. Most likely a vampire, who minds a vampire maintaining a piercing and body modification studio? I can get many of the necessary tools and devices from her here, and in addition, she is clearly interested in the material and therefore she is a potential customer.'
 demand_rating['poison'] = 1
 $interesting_specialisation['poison'] = 'nurse'
 $npc_preferences['poison'] = {
@@ -3143,15 +3143,15 @@ $npc_flirt['poison'] = {
 
 
 $poison_pref[1] = '  [POISON]
-   - My requirements for a slave? Well, listen. Firstly - excellent <font color="#0000CD"><b>health</b></font> and endurance. Believe me, she will have to go through a lot and I want her to live a little longer, I already too often have to change them.'
+   - My requirements for a slave? Well, listen. Firstly, excellent <font color="#0000CD"><b>health</b></font> and endurance. Believe me, she will have to go through a lot and I want her to live a little longer. I already have to change them too often.'
 $poison_pref[2] = '  [POISON]
-   - Second, no less important is <font color="#0000CD"><b>sensitivity</b></font>. I don''t need a log that is not able to feel all the shades of the pain. Plus, a minimum intelligence to serve as an assistant. Temperament and self-sufficiency do not worry me.'
+   - Second, but no less important, is <font color="#0000CD"><b>sensitivity</b></font>. I don''t need a log that is not able to feel all the different shades of pain. Plus, a minimum intelligence to serve as an assistant. Temperament and self-sufficiency do not worry me.'
 $poison_pref[3] = '  [POISON]
-   - And I do not stick to me some exotics, and especially with those whom I already worked on. I want to have a blank canvas to work with. The ordinary person, which my design and craftsmanship make a new, incredible creature. And I don''t need a children - they are too weak.'
+   - And do not stick me with some exotic one, especially with one that I have already worked on. I want to have a blank canvas to work with. With my design and craftsmanship, I can make an ordinary person into a new, incredible creature. And I don''t need children - they are too weak.'
 $poison_pref[4] = '  [POISON]
-   - Of course, she will not mess around, so she need some skills to help in the studio. Ability to work with documents and politely communicate with customers are welcomed. It is also important to know how <font color="#4B0082"><b>to handle the wound</b></font> and <font color="#4B0082"><b>restore order</b></font> after working day.'
+   - Of course, she will not mess around, so she needs some skills to help around in the studio. The ability to work with documents and politely communicate with customers is welcomed. It is also important to know how <font color="#4B0082"><b>to handle wounds</b></font> and <font color="#4B0082"><b>restore order</b></font> after a working day.'
 $poison_pref[5] = '  [POISON]
-   - I also like to show to customers some of my devices and suites, so it''s important to have the ability to move gracefully and pose, as well as the entire set of petplay. In general, let she be accustomed to the special games. So the usual sex skills will not come in handy.'
+   - I also like to show customers some of my devices and suits, so it''s important for her to have the ability to move gracefully and pose, as well as the ability to be a pet. In general, let her be accustomed to special sex games and activities. So the usual sex skills will not come in handy.'
 
 
 
